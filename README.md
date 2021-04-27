@@ -8,6 +8,6 @@ Here, I tried to do
 2. ALU circuit and its logic operations.
 3. Creatig buffer register and then connect them to bus.
 
-This taks were my digital system lab assignments.
+This tasks were my digital system lab assignments.
 
 
