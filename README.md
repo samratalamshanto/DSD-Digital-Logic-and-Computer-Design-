@@ -1,1 +1,1 @@
-# DSD-Digital-Logic-and-Computer-Design-
+# DSD(Digital System Design)
